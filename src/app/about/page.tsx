@@ -6,13 +6,11 @@ export default function About() {
       <main className="container">
         <div className="content-box">
           <h2 className="heading-text heading-text-lg">
-             <span className="highlight-text">Muhammad Nahyan Khan</span>
-            {/* <div className="subheading-text">and I m a Passionate</div>
-             */}
+             Muhmmmad Nahyan Khan
           </h2>
 
           <p className="description-about">
-            I' am a Front-End Developer and Typescript building and designing websites and web apps from scratch.
+            I am a Front-End Developer and Typescript building and designing websites and web apps from scratch.
             Html, CSS, Bootstrap, Javascript, Typescript, React.js, Next.js, and Python are the fields of my expertise.
             I also deal with servers.
           </p>
