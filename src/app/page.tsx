@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { FaGithub, FaLinkedin, FaInstagram, FaFacebook, FaDownload, FaPhone } from "react-icons/fa";
+import { FaGithub, FaLinkedin,  FaFacebook, FaDownload, FaPhone } from "react-icons/fa";
 
 
 export default function Home() {
