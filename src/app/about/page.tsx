@@ -7,7 +7,7 @@ export default function About() {
         <div className="content-box">
           <h2 className="heading-text heading-text-lg">
             Hello! I’m <span className="highlight-text">Muhammad Nahyan Khan</span>
-            <div className="subheading-text">and I’m a Passionate</div>
+            <div className="subheading-text">and I m a Passionate</div>
             
           </h2>
 
