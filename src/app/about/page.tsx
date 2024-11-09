@@ -6,7 +6,7 @@ export default function About() {
       <main className="container">
         <div className="content-box">
           <h2 className="heading-text heading-text-lg">
-            Hello! I’m <span className="highlight-text">M. KASHAN MALIK AWAN</span>
+            Hello! I’m <span className="highlight-text">Muhammad Nahyan Khan</span>
             <div className="subheading-text">and I’m a Passionate</div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
