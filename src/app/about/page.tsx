@@ -3,12 +3,13 @@ import Image from "next/image";
 export default function About() {
   return (
     <>
-      <main className="container ">
+      <main className="container">
         <div className="content-box">
           <h2 className="heading-text heading-text-lg">
             Hello! I’m <span className="highlight-text">M. KASHAN MALIK AWAN</span>
             <div className="subheading-text">and I’m a Passionate</div>
-            <Image
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
               className="typing-effect"
               src="https://readme-typing-svg.herokuapp.com/?lines=TypeScript+Developer;GenAI+Chatbot+Developer;Full+Stack+Web+Developer;NLP+and+Web+Developer;Mern+Stack+Web+Developer&font=Roboto&size=32&duration=3500&pause=500&center=false&width=500&height=50&color=398E8A"
               alt="Typing Effect"
@@ -16,7 +17,9 @@ export default function About() {
           </h2>
 
           <p className="description-about">
-          I' am a Front-End Developer and Typescript building and designing websites and web apps from scratch. Html, CSS, Bootstrap, Javascript, Typescript, React.js, Next.js, and Python are the field of my expertise when it comes to building websites and web apps. I deal with servers as well.
+            I' am a Front-End Developer and Typescript building and designing websites and web apps from scratch.
+            Html, CSS, Bootstrap, Javascript, Typescript, React.js, Next.js, and Python are the fields of my expertise.
+            I also deal with servers.
           </p>
 
           <div className="info-grid info-grid-lg">
