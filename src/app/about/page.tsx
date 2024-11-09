@@ -9,11 +9,12 @@ export default function About() {
             Hello! I’m <span className="highlight-text">Muhammad Nahyan Khan</span>
             <div className="subheading-text">and I’m a Passionate</div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            {/* <img
               className="typing-effect"
               src="https://readme-typing-svg.herokuapp.com/?lines=TypeScript+Developer;GenAI+Chatbot+Developer;Full+Stack+Web+Developer;NLP+and+Web+Developer;Mern+Stack+Web+Developer&font=Roboto&size=32&duration=3500&pause=500&center=false&width=500&height=50&color=398E8A"
               alt="Typing Effect"
-            />
+            /> */}
+            
           </h2>
 
           <p className="description-about">
