@@ -12,8 +12,9 @@ export default function Navbar() {
                     <Link href={'/'} className="navbar-link">Home</Link>
                     <Link href={'/about'} className="navbar-link">About</Link>
                     <Link href={'/contact'} className="navbar-link">Contact</Link>
+                    
                 </nav>
-                <a href="/assets/NAHYAN_RESUME.pdf" download>
+                <a href="/assets/nahyan_resume.pdf" download>
                     <button className="navbar-button">
                         <span className="navbar-button-text">Resume</span>
                         <FaDownload size={20} />

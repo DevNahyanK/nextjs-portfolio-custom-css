@@ -125,7 +125,7 @@
   justify-content: center;
   min-height: 100vh;
   padding: 50px 10px 50px;
-  background-color: #074643;
+  background-color: #7fd0f3;
   position: relative;
   overflow: hidden;
 }
@@ -195,7 +195,7 @@
   align-items: center;
   padding: 10px 24px;
   border-radius: 9999px;
-  border: 2px solid #074643;
+  border: 2px solid #074633;
   color: #074643;
   background-color: white;
   text-decoration: none;

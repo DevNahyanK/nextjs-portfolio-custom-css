@@ -6,7 +6,13 @@ export default function About() {
       <main className="container">
         <div className="content-box">
           <h2 className="heading-text heading-text-lg">
-             Muhmmmad Nahyan Khan
+          Hello! I’m <span className="highlight-text">Muhammad Nahyan Khan</span>
+            <div className="subheading-text">and I’m a Passionate</div>
+            <img
+              className="typing-effect"
+              src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;TypeScript+Developer;Full+Stack+Web+Developer;Gen+AI+Engineer&font=Roboto&size=32&duration=3500&pause=500&center=false&width=500&height=50&color=398E8A"
+              alt="Typing Effect"
+            />
           </h2>
 
           <p className="description-about">

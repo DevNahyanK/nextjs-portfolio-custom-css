@@ -30,7 +30,7 @@ export default function Home() {
           </div>
 
           <div className="cta-buttons">
-            <Link href="\assets\NAHYAN_RESUME.pdf" className="btn resume-btn">
+            <Link href="\assets\nahyan_resume.pdf" className="btn resume-btn">
               <span className="text">RESUME </span>
               <FaDownload size={20} />
             </Link>
